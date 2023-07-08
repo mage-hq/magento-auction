@@ -1,5 +1,5 @@
 # magento-auction
-Magento 2 Auction extension enables auctions for your website, allowing admins to add auctions for products and buyers can bid on those products to increase the competitiveness of the products.
+Magento 2 Auction Extension enables admin to add auctions for products and buyers can bid on those products to boost sales, enhance competition
 
 Please go to https://magehq.com/auction.html buy extension
 
